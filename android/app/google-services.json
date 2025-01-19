@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "644501193335",
+    "project_id": "flutter-notify-adcee",
+    "storage_bucket": "flutter-notify-adcee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644501193335:android:a73e8fbed8e8afa1687c72",
+        "android_client_info": {
+          "package_name": "com.example.notify_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlCO3yuiZZDyCF0Digp8Ex-wM752c0dCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644501193335:android:5637ef0497fe424d687c72",
+        "android_client_info": {
+          "package_name": "com.example.tictactoe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlCO3yuiZZDyCF0Digp8Ex-wM752c0dCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
